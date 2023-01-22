@@ -1,0 +1,22 @@
+AVAHI SERVICE DISCOVERY SUITE
+
+Avahi is a free, LGPL implementation of DNS Service Discovery (DNS-SD RFC 6763) over Multicast DNS (mDNS RFC 6762),
+commonly known as and compatible with Apple Bonjour primarily targetting Linux.
+
+Copyright 2004-2022 by the Avahi developers.
+
+BUGS:
+	https://github.com/lathiat/avahi
+
+WEB SITE:
+	https://avahi.org/
+
+GIT:
+	https://github.com/lathiat/avahi.git
+
+MAILING LIST:
+	https://lists.freedesktop.org/mailman/listinfo/avahi
+
+AUTHORS:
+	Lennart Poettering
+	Trent Lloyd
